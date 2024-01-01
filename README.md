@@ -17,8 +17,8 @@ https://github.com/hamzmu/TowerJump/assets/75766435/46d325c6-e889-42df-b018-d4ca
 ## Version 1.0.0
 Early access download is available in APK completely free.
 - [ ] Optimization; Change Code structure to avoid Hitching/glitching 
-- [ ] Replace Custom Made UI with professional GUI Assets and Animations
-- [ ] Add game sound, death sound, and menu sound
+- [ ] Replace custom-made GUI with professional GUI Assets and Animations
+- [ ] Add game, death, and menu sounds
 - [ ] Add 3 basic game scenes(Aiming for ~15 randomized Scenes before publication)
 
 
