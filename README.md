@@ -13,9 +13,10 @@ https://github.com/hamzmu/TowerJump/assets/75766435/36955958-fa6b-45bb-ab2b-33f9
 
 https://github.com/hamzmu/TowerJump/assets/75766435/46d325c6-e889-42df-b018-d4ca579dc49e
 
+## Download
+Tower Jump was developed completely in Gdevelop, a free and open-source visual coding and scripting engine based on JavaScript. Publishing of this game on the Google Play Store and App Store has been delayed to summer due to school and work. Direct Free APK will be made avaliable once V 1.0.0 is complete. </br>**Download:**<br> 
 
 ## Version 1.0.0
-Early access download is available in APK completely free.
 - [ ] Optimization; Change Code structure to avoid Hitching/glitching 
 - [ ] Replace custom-made GUI with professional GUI Assets and Animations
 - [ ] Add game, death, and menu sounds
@@ -27,8 +28,6 @@ Early access download is available in APK completely free.
 - [ ] Parallax Background
 - [ ] ...
 
-## Publication and Development:
-Tower Jump was developed completely in Gdevelop, a free and open-source visual coding and scripting engine based on JavaScript. Publishing of this game on the Google Play Store and App Store has been delayed to summer due to school and work.
 
 ## Next Steps/features
 reference *Issues* for the current features or issues being worked on that will be added to the next version.
