@@ -4,7 +4,7 @@
 # Tower Jump
 
 ## About This Game
-Tower Jump is a fully free mobile game, featuring a hypercasual playstyle in a pixelated setting created by an indie developer. Avoid Obstacles/enemies and jump as far as you can to achieve a high score. Compete with your friends and publish your score on the public leaderboard.
+Tower Jump is a Winter project I've been working on. It's a fully free mobile game, featuring a hypercasual playstyle in a pixelated setting created by an indie developer. Avoid Obstacles/enemies and jump as far as you can to achieve a high score.
 </br>**Game Preview Version pre-1.0.0:**<br>
 
 
@@ -26,7 +26,7 @@ Tower Jump was developed completely in Gdevelop, a free and open-source visual c
 ## Version 1.1.0
 - [ ] Add 3 Game scenes with Enemy Spike_head, Saw, Spike_ball
 - [ ] Parallax Background
-- [ ] ...
+- [ ] Introduce a public Leaderboard
 
 
 ## Next Steps
