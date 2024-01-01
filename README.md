@@ -1,4 +1,4 @@
-This repo is used to track changes, updates and features until publication on the App Store and Google Play store. After, new version updates and patches are tracked down below:
+*This repo is used to track changes, updates and features until publication on the App Store and Google Play store. After, new version updates and patches are tracked down below:*
 
 
 # Tower Jump
@@ -29,7 +29,7 @@ Tower Jump was developed completely in Gdevelop, a free and open-source visual c
 - [ ] ...
 
 
-## Next Steps/features
+## Next Steps
 reference *Issues* for the current features or issues being worked on that will be added to the next version.
 
 ## Credits:
