@@ -7,7 +7,7 @@ This repo is used to track changes, updates and features until publication on th
 Tower Jump is a fully free mobile game, featuring a hypercasual playstyle in a pixelated setting created by an indie developer. Avoid Obstacles and enemies to achieve a high score, compete with your friends and publish your score on the public leaderboard.
 
 
-## Version 0.0.1
+## Version 1.0.0
 Early access download is available in APK completely free.
 
 
