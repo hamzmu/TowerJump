@@ -8,10 +8,10 @@ Tower Jump is a fully free mobile game, featuring a hypercasual playstyle in a p
 
 ## Version 1.0.0
 Early access download is available in APK completely free.
-[] Optimization; Change Code structure to avoid Hitching/glitching 
-[] Replace Custom Made UI with professional GUI Assets and Animations
-[] Add game sound, death sound, and menu sound
-[] Add 3 basic game scenes(Aiming for ~15 randmozed Scenes before publication)
+-[] Optimization; Change Code structure to avoid Hitching/glitching 
+-[] Replace Custom Made UI with professional GUI Assets and Animations
+-[] Add game sound, death sound, and menu sound
+-[] Add 3 basic game scenes(Aiming for ~15 randmozed Scenes before publication)
 
 
 ## Version 1.1.0
