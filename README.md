@@ -16,7 +16,7 @@ Early access download is available in APK completely free.
 
 ## Version 1.1.0
 - [ ] Add 3 Game scenes with Enemy Spike_head, Saw, Spike_ball
-More to be added
+- [ ] ...
 
 ## Publication and Development:
 Tower Jump was developed completely in Gdevelop, a free and open-source visual coding and scripting engine based on JavaScript. Publishing of this game on the Google Play Store and App Store has been delayed to summer due to school and work.
