@@ -9,8 +9,10 @@ Tower Jump is a fully free mobile game, featuring a hypercasual playstyle in a p
 ![image](https://github.com/hamzmu/TowerJump/assets/75766435/9455c3f8-de0f-4a96-ac59-d1100c6197cd)
 ![image](https://github.com/hamzmu/TowerJump/assets/75766435/da07392a-7d18-4b0a-bf71-c21d42815f5d)
 ![image](https://github.com/hamzmu/TowerJump/assets/75766435/4cfcbf2b-83e5-4cf1-9a97-c70e76b07c2d)
-https://github.com/hamzmu/TowerJump/assets/75766435/64c7b465-5417-4a1b-8e49-c31f7fdf9728
-https://github.com/hamzmu/TowerJump/assets/75766435/7203a033-eba0-4847-a19e-ac0c91538161
+
+
+https://github.com/hamzmu/TowerJump/assets/75766435/9ee49313-2e7a-42ad-8fba-fdb7bcc5d6bf
+
 
 ## Version 1.0.0
 Early access download is available in APK completely free.
