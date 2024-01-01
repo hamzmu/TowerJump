@@ -25,7 +25,7 @@ Tower Jump was developed completely in Gdevelop, a free and open-source visual c
 reference *Issues* for the current features or issues being worked on that will be added to the next version.
 
 ## Credits:
-Below are credits for sprites, inspirations, sound, etc:
+Below are credits for sprites, sound, etc:
 * Hero Sprite  - Grafxkid - https://0x72.itch.io/dungeontileset-ii
 * Tile Set - Rotting Pixels - https://rottingpixels.itch.io/platformer-dungeon-tileset
 * Current GUI - Lucid - https://leo-red.itch.io/lucid-icon-pack?download
