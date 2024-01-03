@@ -7,6 +7,7 @@
 Tower Jump is a Winter project I've been working on. It's a fully free mobile game, featuring a hypercasual playstyle in a pixelated setting created by an indie developer. Avoid Obstacles/enemies and jump as far as you can to achieve a high score.
 </br>**Game Preview Version pre-1.0.0:**<br>
 
+*New game previews will be made available once all the current version features and updates are complete*
 
 https://github.com/hamzmu/TowerJump/assets/75766435/36955958-fa6b-45bb-ab2b-33f9646bf110
 
@@ -14,7 +15,8 @@ https://github.com/hamzmu/TowerJump/assets/75766435/36955958-fa6b-45bb-ab2b-33f9
 https://github.com/hamzmu/TowerJump/assets/75766435/46d325c6-e889-42df-b018-d4ca579dc49e
 
 ## Download
-Tower Jump was developed completely in Gdevelop, a free and open-source visual coding and scripting engine based on JavaScript. Publishing of this game on the Google Play Store and App Store has been delayed to summer due to school and work. Direct Free APK will be made avaliable once V 1.0.0 is complete. </br>**Download:**<br> 
+Tower Jump was developed completely in Gdevelop, a free and open-source visual coding and scripting engine based on JavaScript. Publishing of this game on the Google Play Store and App Store has been delayed to summer due to school and work. Direct Free APK will be made avaliable once V 1.0.0 is complete. </br>**Download:**<be> 
+
 
 ## Version 1.0.0
 - [ ] Optimization; Change Code structure to avoid Hitching/glitching 
