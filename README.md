@@ -26,10 +26,11 @@ Tower Jump was developed completely in Gdevelop, a free and open-source visual c
 
 
 ## Version 1.1.0
-- [ ] Add 3 Game scenes with Enemy Spike_head, Saw, Spike_ball
+- [ ] Add 3 Game scenes with Enemy Ai Spike_head, Saw, Spike_ball 
 - [ ] Parallax Background
 - [ ] Introduce a public Leaderboard
-- [ ] ...
+- [ ] Highscore Publication
+- [ ] ...to-be-added...
 
 
 ## Next Steps
