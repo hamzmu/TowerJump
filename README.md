@@ -20,9 +20,9 @@ Tower Jump was developed completely in Gdevelop, a free and open-source visual c
 
 ## Version 1.0.0
 - [ ] Optimization; Change Code structure to avoid Hitching/glitching 
-- [ ] Replace custom-made GUI with professional GUI Assets and Animations
+- [x] Replace custom-made GUI with professional GUI Assets and Animations
 - [ ] Add game, death, and menu sounds
-- [ ] Add 3 basic game scenes(Aiming for ~15 randomized Scenes before publication)
+- [x] Add 3 basic game scenes(Aiming for ~15 randomized Scenes before publication)
 
 
 ## Version 1.1.0
