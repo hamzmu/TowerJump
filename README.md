@@ -7,7 +7,7 @@
 Tower Jump is a Winter project I've been working on. It's a fully free mobile game, featuring a hypercasual playstyle in a pixelated setting created by an indie developer. Avoid Obstacles/enemies and jump as far as you can to achieve a high score.
 </br>**Game Preview Version pre-1.0.0:**<br>
 
-*New game previews will be made available once all the current version features and updates are complete*
+*TO BE UPDATED*
 
 https://github.com/hamzmu/TowerJump/assets/75766435/36955958-fa6b-45bb-ab2b-33f9646bf110
 
